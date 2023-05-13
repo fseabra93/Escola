@@ -1,3 +1,10 @@
+/*
+FLAVIO ROBERTO G. SEABRA - MAT 20200040620
+IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I - T03 (2023.1)
+*/
+
+
+
 #include <iostream>
 #include <vector>
 
